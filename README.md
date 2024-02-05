@@ -1,6 +1,6 @@
 # Superheroes_Data_Analysis
 
-<img width="766" alt="image" src="C:\Users\gaura\OneDrive\Pictures\wallhaven-vqqe28.jpg">
+![wallhaven-vqqe28](https://github.com/Gauravverma069/Superheroes_Data_Analysis/assets/121911821/57041789-0e17-4ec4-840d-40e701fb3a29)
 
 ## Overview
 
