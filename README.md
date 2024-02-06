@@ -24,6 +24,10 @@ The major Aim of this project is to gain insight and get to a meaningful conclus
 
 ## about Data
 
+### ERR Diagram
+
+![ERR diagram](https://github.com/Gauravverma069/Superheroes_Data_Analysis/assets/121911821/0e707ed2-0dbf-4b59-a060-4d76bd156afd)
+
 The dataset was obtained from the 
 [kaggle dataset of superhero movies from 1978 to 2018](https://www.kaggle.com/datasets/abhishekbagwan/superhero-1978-movie-csv)
 consist of 732 rows about movie release during 1978 to 2018.
@@ -133,8 +137,13 @@ consist of 667 rows about basic heroes_info and their superpowers.
 10. top 10 list of superhero have most set of superpower, publisher name , first appearance,race,alignment,?
 etc.
 
+### Conclusions-
 
-
+1. Batman is the superhero with most superheroes movie and 3rd highest total gross collection.
+2. on the other hand ironman have appeared in 8 movies with 1st highest total gross collection.
+3. also Spiderman have only 6 appearances in movies but have 2nd highest total gross collection.
+4. before 2010 from 1978 a total of 55 movies have been released and after 2010 till 2018 only 44 movies had released but total collection after 2010 is almost 1.5X that before 2010.
+5. beside humans , Mutants are the race that has most appearance in movies.
 
 
 
